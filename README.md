@@ -1,6 +1,21 @@
 # SONIC CRAFT UNITY
 
-A high-speed, 2.5D Sonic-style platformer built in Unity, designed to replicate the feel of classic Sonic games with modern game development practices. This project is built for rapid iteration and extendability, perfect for level design, AI integration, and procedural generation experiments.
+An Unity environment for Sonic-style platformer built in Unity (of course), designed to replicate the feel of classic Sonic games with modern game development practices and for automated testing using AI. This project is built for rapid iteration, extendability, flexibility, scalability, perfect for level design, AI integration, and procedural generation experiments (check [SONIC-GAN](https://github.com/vsx23733/SONIC-GAN) if you want to know more)
+
+## Table of Contents
+
+- [Overview](#sonic-craft-unity)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Requirements](#requirements)
+  - [Running the Game](#running-the-game)
+- [AI & Procedural Generation (In Progress)](#ai--procedural-generation-in-progress)
+- [Future Improvements](#future-improvements)
+- [Contributors](#contributors)
+- [Related Projects & Tools](#related-projects--tools)
+- [License](#license)
+- [Credits](#credits)
+
 
 ## Features
 
@@ -8,7 +23,7 @@ A high-speed, 2.5D Sonic-style platformer built in Unity, designed to replicate 
 - Modular enemy AI system  
 - Tile-based level system with ASCII map conversion  
 - In-editor tools for custom level creation  
-- Integration-ready for ML agents and procedural level generation  
+- Integration-ready for ML agents and level testing using AI (Reinforcement Learning) 
 - Fully integrated with Unity’s 2D rendering pipeline  
 
 ---
@@ -50,7 +65,11 @@ While the current version of the AI isn't yet capable of completing the levels, 
 
 DEMO of the TRAINING of the AI: 
 
-VIDEO
+
+
+https://github.com/user-attachments/assets/11fa7644-0f2d-497a-ac4f-1bc5eda8bcbb
+
+
 
 This project is being actively developed to support:
 
@@ -61,7 +80,7 @@ This project is being actively developed to support:
 
 You can find the different version of the AI in the results folder reporting previous and last version of the AI. 
 
-## To-Do
+## Future Improvements
 
 - Refine collision and physics for more accurate Sonic-style gameplay to make the adaptation to other game easier
 - Expand level variety (only 2 available right now)
@@ -80,6 +99,7 @@ This is our lovely team. Big Heart on all of them.
 
 
 ## Related Projects & Tools
+
 MLAgents toolkit for those who may want to clone this repo and train their own version of the AI. 
 You may need our encoder if you want to train the AI on another sonic level or an adapted version of it (our encoder will then be your backbone) if you want to train the ai on another game. 
 [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
