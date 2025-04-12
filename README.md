@@ -52,7 +52,7 @@ By speeding up the testing phase, SONIC-CRAFT aims to deliver significant value 
 2. Open the project in Unity Hub or directly in Unity.ù
 3. Load the SampleScene from the Scenes/ folder and press Play.
 
-VIDEO OF THE GAME
+VIDEO OF THE GAME (We are not not game developers, we were completely new to Unity and C# development, be kind for bugs and bad unity practices. Future improvements are coming)
 
 
 
