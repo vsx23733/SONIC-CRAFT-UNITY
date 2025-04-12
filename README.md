@@ -52,6 +52,21 @@ By speeding up the testing phase, SONIC-CRAFT aims to deliver significant value 
 2. Open the project in Unity Hub or directly in Unity.ù
 3. Load the SampleScene from the Scenes/ folder and press Play.
 
+VIDEO OF THE GAME
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/fef17b74-c1cf-450f-a627-2b7537b09e3c
+
+
+
+
+
+
 
 ## AI & Procedural Generation (In Progress)
 
@@ -67,7 +82,15 @@ DEMO of the TRAINING of the AI:
 
 
 
-https://github.com/user-attachments/assets/11fa7644-0f2d-497a-ac4f-1bc5eda8bcbb
+
+
+
+https://github.com/user-attachments/assets/c44f4d25-aa0c-4582-a904-ea56123637b8
+
+
+
+
+
 
 
 
