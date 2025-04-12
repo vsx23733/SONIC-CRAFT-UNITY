@@ -1,0 +1,29 @@
+{
+    "SonicAgent": {
+        "checkpoints": [
+            {
+                "steps": 100032,
+                "file_path": "results\\SonicAgentTraining_3\\SonicAgent\\SonicAgent-100032.onnx",
+                "reward": null,
+                "creation_time": 1741786445.0779407,
+                "auxillary_file_paths": [
+                    "results\\SonicAgentTraining_3\\SonicAgent\\SonicAgent-100032.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 100032,
+            "file_path": "results\\SonicAgentTraining_3\\SonicAgent.onnx",
+            "reward": null,
+            "creation_time": 1741786445.0779407,
+            "auxillary_file_paths": [
+                "results\\SonicAgentTraining_3\\SonicAgent\\SonicAgent-100032.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "2.4.1+cpu"
+    }
+}

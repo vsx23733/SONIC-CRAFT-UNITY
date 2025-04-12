@@ -1,0 +1,12 @@
+command to run the learning: 
+
+mlagents-learn config/configuration.yaml --run-id=SonicAgentTraining_1 --train
+
+
+Run tensorboard:
+
+tensorboard --logdir=results
+http://localhost:6006
+
+
+

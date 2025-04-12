@@ -1,0 +1,29 @@
+{
+    "SonicAgent": {
+        "checkpoints": [
+            {
+                "steps": 19584,
+                "file_path": "results\\ppo\\SonicAgent\\SonicAgent-19584.onnx",
+                "reward": null,
+                "creation_time": 1741780396.9402514,
+                "auxillary_file_paths": [
+                    "results\\ppo\\SonicAgent\\SonicAgent-19584.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 19584,
+            "file_path": "results\\ppo\\SonicAgent.onnx",
+            "reward": null,
+            "creation_time": 1741780396.9402514,
+            "auxillary_file_paths": [
+                "results\\ppo\\SonicAgent\\SonicAgent-19584.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "2.4.1+cpu"
+    }
+}
